@@ -18,7 +18,7 @@ source("matrix2plot.R") #To run function plotmatnumber(matrix)
 
 saveNumberPlotstrain <- function(data){
   for(i in c(1:nrow(data))){
-    png(paste0("plots/number_",i,"th.png"),width=400, height=400)
+    png(paste0("plots/train/number_",i,"th.png"),width=400, height=400)
     plotmatnumber(data[i,-1])
     dev.off()
   }
@@ -26,7 +26,7 @@ saveNumberPlotstrain <- function(data){
 
 saveNumberPlotstest <- function(data){
   for(i in c(1:nrow(data))){
-    png(paste0("plots/number_",i,"th.png"),width=400, height=400)
+    png(paste0("plots/test/number_",i,"th.png"),width=400, height=400)
     plotmatnumber(data[i,])
     dev.off()
   }
