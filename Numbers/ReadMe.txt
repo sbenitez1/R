@@ -1,6 +1,6 @@
 ## ---------------------------
 ##
-## Author: Sandra Benitez-Pena
+## Author: Sandra Benitez-Peña
 ##
 ## Date Created: 2019-07-30
 ##
