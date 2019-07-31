@@ -1,8 +1,8 @@
 ## ---------------------------
 ##
-## Script name: matrix2plot.R
+## Script name: savingPlots.R
 ##
-## Purpose of script: Draw number/images from matrix data (only black&white)
+## Purpose of script: Save the plots created created using "matrix2plot.R"
 ##
 ## Author: Sandra Benitez-Pena
 ##
