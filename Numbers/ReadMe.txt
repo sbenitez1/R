@@ -4,7 +4,7 @@
 ##
 ## Date Created: 2019-07-30
 ##
-## Copyright (c) Sandra Benitez-Pena, 2019
+## Copyright (c) Sandra Benitez-Peña, 2019
 ## Email: sbenitez1@us.es
 ##
 ## ---------------------------
