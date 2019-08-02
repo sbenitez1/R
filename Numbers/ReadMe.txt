@@ -19,6 +19,8 @@ chain of 28x28 pixels (in the format of the data) so that the code
 will transform such data into a draw.
 
 Secondly, some experiments are run. Starting from the Random Forest, to
-continue with the Support Vector Machines and finalyze with the well-known
-Neural-Networks.
+continue with the Support Vector Machines or the k-Nearest Neighbor 
+and finalyze with the well-known Neural-Networks.
+
+
 
