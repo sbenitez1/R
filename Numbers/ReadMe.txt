@@ -10,7 +10,7 @@
 ## ---------------------------
 
 This respository has as purpose to study the dataset "Digit Recognizer" 
-in  Kaggle (see <url>https://www.kaggle.com/c/digit-recognizer</url> for more 
+in  Kaggle (see https://www.kaggle.com/c/digit-recognizer for more 
 details). 
 
 First, I try to understand the data by plotting it. For that, I have
